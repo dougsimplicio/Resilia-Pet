@@ -10,7 +10,7 @@ body {
     padding-left: 2%;
 }
 
-@media screen (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .header {
         width: 100%;
         display: flex;
