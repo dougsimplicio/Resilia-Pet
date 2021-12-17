@@ -10,6 +10,16 @@ body {
     padding-left: 2%;
 }
 
+@media screen (max-width: 600px) {
+    .header {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        background-color: purple;
+        align-items: center;
+       
+}
+
 .header > h1 {
     display: flex;
     justify-content: center;
